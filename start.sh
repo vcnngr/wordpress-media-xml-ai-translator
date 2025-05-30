@@ -2,7 +2,7 @@
 # Script di setup rapido per XML Translator
 
 echo "🐳 Avvio XML Translator..."
-cd xml-translator
+# cd wordpress-media-xml-ai-translator
 
 echo "📦 Build del container..."
 docker-compose up --build -d
