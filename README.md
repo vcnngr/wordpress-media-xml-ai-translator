@@ -11,7 +11,7 @@ i dati delle singole immagini. A questo punto importare il file nel nuvo sito ne
 ## 🚀 Avvio Rapido
 
 1. Esegui questo script per generare tutti i file
-2. Naviga nella cartella `xml-translator`
+2. Naviga nella cartella `wordpress-media-xml-ai-translator`
 3. Esegui: `docker-compose up --build`
 4. Apri: `http://localhost:5000`
 
