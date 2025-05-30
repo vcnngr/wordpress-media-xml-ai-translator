@@ -32,7 +32,7 @@ i dati delle singole immagini. A questo punto importare il file nel nuvo sito ne
 ## 📁 Struttura Generata
 
 ```
-xml-translator/
+wordpress-media-xml-ai-translator/
 ├── xml_translator.py      # Motore di traduzione
 ├── app.py                 # Applicazione Flask  
 ├── requirements.txt       # Dipendenze Python
